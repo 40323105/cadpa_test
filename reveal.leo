@@ -2077,13 +2077,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;有關我的作業&lt;/h2&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;p&gt;40323105 莊舜婷&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;筆記&lt;/h2&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
+        2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
+        3.git branch 索引自己的分支&lt;/p&gt;
    
 &lt;/section&gt;
 				
