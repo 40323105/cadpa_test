@@ -2045,9 +2045,18 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;40323105&lt;/p&gt;
-    
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;第一周
+              第一周就開始使用了github網站,開始創建了分支,以及如何變換分支,這已經是難得聽得懂的一周了,雖然很久沒有使用python來做作業了,但至少基本的還聽得懂拉,第一次用先用個google連結,有成功唷~~~~~非常難得,這一周可能是最認真的一堂了.....&lt;/p&gt;
+        
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;第二周
+             這一周開始進入聽不懂模式,首先要把Leo打開就是個難題了,而且還要利用它把投影片修改成自己的,這是個多麼困難的作業阿,另外因為很多人還沒把投影片弄好,所以先幫其他同學,發現為何已經push上去卻顯示404的符號,一個原因可能是網路還在跑,另外一個原因可能是沒通過認證.如果沒通過認證的話就要先把倉儲刪掉,再重建一個,或許是因為一直重複這個動作,現在創建分支我可厲害的了!!!!結果到後來我自己的投影片都還沒修改成我自己的&lt;/p&gt;
+        
+    &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
