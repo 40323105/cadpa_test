@@ -2076,11 +2076,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;有關我的作業&lt;/h2&gt;
-    &lt;p&gt;40323105 莊舜婷&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
+    &lt;section&gt;
+        &lt;h2&gt;有關我的作業&lt;/h2&gt;
+        &lt;p&gt;40323105 莊舜婷&lt;/p&gt;		
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;班級&lt;/h2&gt;
+        &lt;p&gt;四設計二甲&lt;/p&gt;		
+    &lt;/section&gt;	
+&lt;/section&gt;	</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;筆記&lt;/h2&gt;
     &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
