@@ -291,6 +291,7 @@
 <v t="amd.20150915211351.7"><vh>有關我自己</vh></v>
 <v t="amd.20150915211351.9"><vh>第一周作業</vh></v>
 <v t="leo.20151008125208.1"><vh>第二周作業</vh></v>
+<v t="leo.20151008125915.1"><vh>第三周作業</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2087,7 +2088,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;/section&gt;	
 &lt;/section&gt;	</t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記&lt;/h2&gt;
+    &lt;h2&gt;筆記(第一周)&lt;/h2&gt;
     &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
         2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
         3.git branch 索引自己的分支&lt;/p&gt;
@@ -2303,11 +2304,19 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151008125208.1">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記&lt;/h2&gt;
+    &lt;h2&gt;筆記(第二周)&lt;/h2&gt;
     &lt;p&gt;1.開始修改投影片
           2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3
           3.老師有錄製影片,可自行去看
           4.討論為何push上去github卻無法開啟網頁,怎麼處理以及更新資料&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151008125915.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;筆記(第三周)&lt;/h2&gt;
+    &lt;p&gt;1.繼續第二周未完成的作業
+          2.開始教新的繪圖軟體,並且如何使用
+          3.搜尋solvespace並且下載23.MB的那個檔案&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
