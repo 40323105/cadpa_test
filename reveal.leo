@@ -288,8 +288,9 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
+<v t="amd.20150915211351.7"><vh>有關我自己</vh></v>
 <v t="amd.20150915211351.9"><vh>第一周作業</vh></v>
+<v t="leo.20151008125208.1"><vh>第二周作業</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2301,5 +2302,14 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151008125208.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;筆記&lt;/h2&gt;
+    &lt;p&gt;1.開始修改投影片
+          2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3
+          3.老師有錄製影片,可自行去看
+          4.討論為何push上去github卻無法開啟網頁,怎麼處理以及更新資料&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 </tnodes>
 </leo_file>
