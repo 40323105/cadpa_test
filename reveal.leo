@@ -2086,7 +2086,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
         2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
         3.git branch 索引自己的分支&lt;/p&gt;
-   
+        4.git branch gh-pages (建立分支)
+        5.git branch (查分支)
+        6.git checkout gh-pages (切換分支)
 &lt;/section&gt;
 				
 </t>
