@@ -289,7 +289,7 @@
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="amd.20150915211351.9"><vh>第一周作業</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -2077,7 +2077,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;有關我的作業&lt;/h2&gt;
+        &lt;h2&gt;介紹自己&lt;/h2&gt;
         &lt;p&gt;40323105 莊舜婷&lt;/p&gt;		
     &lt;/section&gt;
     &lt;section&gt;
