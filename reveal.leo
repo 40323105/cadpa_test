@@ -2089,8 +2089,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
         4.git branch gh-pages (建立分支)
         5.git branch (查分支)
         6.git checkout gh-pages (切換分支)
-        -----------------------------------------
- 將reaval的檔案download下來之後,除了   Remade之外其他複製
+好了之後將reaval的檔案download下來之後,除了   Remade之外其他複製
         到自己的資料夾
         輸入指令
         1.git add -A
