@@ -2067,7 +2067,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;section&gt;
         &lt;h2&gt;第四周心得&lt;/h2&gt;
         &lt;p&gt;
-         想要改標題,但是就是找不到notebook.py這個檔案,11112222222&lt;/p&gt;         
+         想要改標題,但是就是找不到notebook.py這個檔案,所以想說先打心得,打到一半想先傳上去遠端,但是連試兩次都沒有成功,程式也沒問我的username和password,原來是因為網路斷線,它無法找到我的網址,以至於無法git push ,這一次斷線讓我發現,原來git push上去時需要網路,在之前我都認為不需要網路就可以更新了,學到了一個重點阿,&lt;/p&gt;         
          
     &lt;/section&gt;
 &lt;/section&gt;				
