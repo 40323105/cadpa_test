@@ -2302,12 +2302,14 @@ g.es("pelican 執行完畢")
     &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
 &lt;/section&gt;
 				</t>
-<t tx="ibm.20150918175403.9">&lt;section&gt;
-    &lt;h1&gt;作業規劃&lt;/h1&gt;
-    &lt;p&gt;影片內容&lt;/p&gt;
-    &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
+<t tx="ibm.20150918175403.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;筆記(第二周)&lt;/h2&gt;
+    &lt;p&gt;1.開始修改投影片
+          2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3
+          3.老師有錄製影片,可自行去看
+          4.討論為何push上去github卻無法開啟網頁,怎麼處理以及更新資料&lt;/p&gt;
 &lt;/section&gt;
-				</t>
+		</t>
 <t tx="ibm.20150918175711.1">&lt;section&gt;
     &lt;h1&gt;Git 操作&lt;/h1&gt;
     &lt;p&gt;git clone&lt;/p&gt;
