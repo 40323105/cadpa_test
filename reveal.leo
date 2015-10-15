@@ -2063,9 +2063,14 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
         &lt;p&gt;
          全新的一周來拉~~~已經有3周沒交作業的我開始拚了,只是不知為何修改到一半他不給我更新了,一個跌到谷底了,現在還是得依靠同學的幫助阿,不過投影片裡的東西是自己修改的倒是蠻有心得的,不過這一周上的東西已經超越我理解範圍了,或許我該用點心來學習了,且這禮拜也教新的繪圖軟體,很像在畫CAD,應該很快就可以很熟練了&lt;/p&gt;
          
-         &lt;/section&gt;    
-&lt;/section&gt;
-				
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;第四周心得&lt;/h2&gt;
+        &lt;p&gt;
+         想要改標題,但是就是找不到notebook.py這個檔案,&lt;/p&gt;         
+         
+         &lt;/section&gt;
+&lt;/section&gt;				
 </t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
